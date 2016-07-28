@@ -7,6 +7,18 @@ These are some official guidelines that may be useful in thinking through what's
 * [Art and Architectural History](http://www.collegeart.org/pdf/evaluating-digital-scholarship-in-art-and-architectural-history.pdf)
 * Emory University's [Memorandum on the Evaluation of DS](http://college.emory.edu/home/assets/documents/faculty/Digital-Scholarship-Memo-Nov2013.pdf)
 
+## Ethics and Evaluation
+* [On Capacity and Care](http://nowviskie.org/2015/on-capacity-and-care/)
+Because everyone should read it, Bethany Nowviskie's post [On Capacity and Care](http://nowviskie.org/2015/on-capacity-and-care/) offers a much needed call to remember the human side of our endeavors. 
+>What would the technical platforms and digital humanities communities of practice we are building look like if they were more self-consciously predicated on a something the humanities values deeply and performs well?—that is, on care, in its many manifestations across our fields. How might taking care—and taking the concept of care more seriously in graduate education and cultural heritage infrastructure-building—serve to expand our scope?
+
+* [Collaborators' Bill of Rights](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/)
+
+* [Student Collaborators' Bill of Rights](http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/)
+
+* [Networked Knowledge Creation](http://personal.psu.edu/amm81/sci/index.html) 
+
+
 ## Readings
 ### [Challenges of DS](http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103), Adeline Koh, ProfHacker, 25 JAN 2015
 Her first bullet -- but really the whole post -- is about educating your audience. This, then, is a great guide for figuring out how you can talk about your work specifically and for painting the larger, contextual landscape for your peers and evaluators. 

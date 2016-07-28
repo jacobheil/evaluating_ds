@@ -6,7 +6,8 @@
 ### [Art and Architectural History](http://www.collegeart.org/pdf/evaluating-digital-scholarship-in-art-and-architectural-history.pdf)
 
 ## Readings
-### [Challenges of DS](http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103), Adeline Koh, ProfHacker
+### [Challenges of DS](http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103), Adeline Koh, ProfHacker, 25 JAN 2015
+Her first bullet -- but really the whole post -- is about educating your audience. This, then, is a great guide for figuring out how you can talk about your work specifically and for painting the larger, contextual landscape for your peers and evaluators. 
 
 ### [Closing the Evaluation Gap](http://journalofdigitalhumanities.org/1-4/closing-the-evaluation-gap/), Fall 2012, Journal of Digital Humanities
 Includes an overview section, [The Problem Stated](http://journalofdigitalhumanities.org/1-4/living-in-a-digital-world-by-sheila-cavanagh/), as well as an incredible discipline- and/or medium-specific section on [Approaches](http://journalofdigitalhumanities.org/1-4/how-to-evaluate-digital-scholarship-by-todd-presner/). Includes especially useful and bullet pointed [Short Guide to Evaluation of DS](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/). Also of note, Zach Coble's [Guidelines for Librarians](http://journalofdigitalhumanities.org/1-4/evaluating-digital-humanities-work-guidelines-for-librarians-by-zach-coble/). These are all at least four years old now, but they remain (IMO) solid foundations when thinking through your own and/or your institutions position vis-a-vis digital scholarship.

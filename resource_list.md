@@ -1,9 +1,11 @@
 # Resource List
 
 ## Organizational Guidelines
-### [Modern Language Association](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
-### [American Historical Society](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-evaluation-of-digital-scholarship-in-history)
-### [Art and Architectural History](http://www.collegeart.org/pdf/evaluating-digital-scholarship-in-art-and-architectural-history.pdf)
+These are some official guidelines that may be useful in thinking through what's important in your work and/or demonstrating how other organizations have tried to generalize responsible and reasonable evaluation of digital scholarship.
+* [Modern Language Association](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
+* [American Historical Society](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-evaluation-of-digital-scholarship-in-history)
+* [Art and Architectural History](http://www.collegeart.org/pdf/evaluating-digital-scholarship-in-art-and-architectural-history.pdf)
+* Emory University's [Memorandum on the Evaluation of DS](http://college.emory.edu/home/assets/documents/faculty/Digital-Scholarship-Memo-Nov2013.pdf)
 
 ## Readings
 ### [Challenges of DS](http://chronicle.com/blogs/profhacker/the-challenges-of-digital-scholarship/38103), Adeline Koh, ProfHacker, 25 JAN 2015

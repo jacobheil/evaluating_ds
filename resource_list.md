@@ -6,7 +6,6 @@ These are some official guidelines that may be useful in thinking through what's
 * [American Historical Society](https://www.historians.org/teaching-and-learning/digital-history-resources/evaluation-of-digital-scholarship-in-history/guidelines-for-the-evaluation-of-digital-scholarship-in-history)
 * [Art and Architectural History](http://www.collegeart.org/pdf/evaluating-digital-scholarship-in-art-and-architectural-history.pdf)
 * Emory University's [Memorandum on the Evaluation of DS](http://college.emory.edu/home/assets/documents/faculty/Digital-Scholarship-Memo-Nov2013.pdf)
-* Another [list item](http://er.educause.edu/articles/2013/8/does-digital-scholarship-have-a-future) to show everyone what I'm doing. 
 
 ## Ethics and Evaluation
 * [On Capacity and Care](http://nowviskie.org/2015/on-capacity-and-care/)
